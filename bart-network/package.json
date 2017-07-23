@@ -14,4 +14,4 @@
       "test-cover": "nyc npm run test-inner",
       "test": "mocha --recursive -t 4000"
     },
-}}
+}
